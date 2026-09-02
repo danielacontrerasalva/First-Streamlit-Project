@@ -1,4 +1,0 @@
-streamlit==1.63.0
-pandas
-pyarrow==24.0.0
-plotly==5.24.1
